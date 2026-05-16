@@ -1,7 +1,5 @@
 # Heart Disease Predictor
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://heart-disease-predictor-by-tyhan.streamlit.app/)
-
 An ML-powered Heart Disease Prediction Web App built with Python, Scikit-learn, and Streamlit.
 
 ## 🎯 Overview
