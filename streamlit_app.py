@@ -299,8 +299,7 @@ st.markdown("""
 # API CONFIGURATION
 # ═════════════════════════════════════════════════════════════════════════════
 
-API_URL = "http://127.0.0.1:8000/predict"
-
+API_URL = "https://heart-disease-predictor-1-z6d6.onrender.com/predict"
 
 # ═════════════════════════════════════════════════════════════════════════════
 # MAIN LAYOUT
