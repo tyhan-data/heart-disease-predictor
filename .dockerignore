@@ -1,0 +1,10 @@
+__pychace__/
+
+.venv/
+venv/
+
+.git/
+
+.ipynb_checkpoint/
+
+.vscode/
